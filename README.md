@@ -2,7 +2,7 @@
 
 I'm a backend software developer with JavaScript as my main language.
 
-- 🔭 I’m currently working on a project for [Hogeschool Utrecht](https://www.hu.nl/). For English click [here](https://www.hu.nl/)
+- 🔭 I’m currently working on a project for [DevDroplets](https://devdroplets.com/).
 - 🌱 I’m currently learning Backend Software Development
 - 💬 Ask me about JavaScript/TypeScript
 - 📫 How to reach me: Easiest and fastest way to reach me is by sending me a DM on Discord. [BlastBucket#2901]()
